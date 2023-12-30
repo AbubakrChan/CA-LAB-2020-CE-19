@@ -8,7 +8,7 @@ This repository showcases a 3-stage pipelined Processor developed using System V
 1. Basic types: R, I, B, S, LOADS, J, and U.
 2. CSR instructions for control and status registers.
 
-Additionally, the processor is equipped to manage data hazards through mechanisms like forwarding and stalling. It also supports instruction flushing.
+The processor is equipped to manage data hazards through mechanisms like forwarding and stalling. It also supports instruction flushing.
 
 For comprehensive details, refer to the documentation located in the 'docs' folder.
 
@@ -62,7 +62,11 @@ For any inquiries or issues related to the processor, please contact me at [your
 
 
 
-### 5- Staged
+
+
+
+
+### 5- Staged (Extra)
 
 This is a 16-bit, 5-stage RISC processor. RTL description in Verilog. Includes assembler, simulator, and example programs.
 
