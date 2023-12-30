@@ -63,12 +63,10 @@ For any inquiries or issues related to the processor, please contact me at [your
 
 ### Related images
 
-![corrected_three_staged_pipelined](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/b291d808-7b1a-45fa-a5eb-8d05715755ad)
-![three_staged_pipelined_control](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/bc2e483e-ef18-4032-b04d-dd64f967a939)
+
+![myimaa](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/de39b17c-eae6-4b0a-84a7-4374a238b757)
+
 ![three_staged_data_path](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/8fcd2e1a-441c-44c3-a8ab-d8c76ebe7281)
-![stall_detection](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/812ec6dc-47a5-45bf-952b-da8c8fbef759)
-![peripherals_bus](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/c288c3ca-ac1c-4c62-9743-b61299a24f0e)
-![lsu_block_diagram](https://github.com/AbubakrChan/CA-LAB-2020-CE-19/assets/89600478/a67e1930-edb6-4f1b-952b-96769cc04ed7)
 
 
 
